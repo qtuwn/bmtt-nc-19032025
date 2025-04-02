@@ -1,0 +1,9 @@
+2025-04-02 12:44:48,549 - INFO - System Monitor: Starting system monitoring...
+2025-04-02 12:44:48,558 - INFO - CPU: Usage: 29.7%
+2025-04-02 12:44:48,559 - INFO - Memory: Usage: 82.9%
+2025-04-02 12:44:51,935 - INFO - HTTP Request: POST https://api.telegram.org/bot6808243924:AAFJCe4KtZVGPhz2_D074K148ZJOhsNamQQ/sendMessage "HTTP/1.1 401 Unauthorized"
+2025-04-02 12:46:06,969 - INFO - System Monitor: Starting system monitoring...
+2025-04-02 12:46:06,977 - INFO - CPU: Usage: 33.4%
+2025-04-02 12:46:06,978 - INFO - Memory: Usage: 81.7%
+2025-04-02 12:46:12,464 - INFO - HTTP Request: POST https://api.telegram.org/bot7950699986:AAFoND7FXelxX2S86YBvkS-H0N9V5K15dhM/sendMessage "HTTP/1.1 200 OK"
+2025-04-02 12:46:12,469 - INFO - System Monitor: ----------------------------------------
